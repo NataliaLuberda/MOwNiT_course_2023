@@ -1,0 +1,13 @@
+
+Program został napisany w języku Python. Aby uruchomić program należy mieć zainstalowany interpreter Pythona 3 oraz wymagane biblioteki i pakiety:Numpy, Pandas, dataframe_image, Matplotlib, math.Aby pobrać wymagane biblioteki należy zainstalować pip - system do zarządzania pakietami języka Python. Aby pobrać wymagany pakiet wystarczy wpisać w konsoli np. pip install numpy
+
+Projekt składa się z plików: Hermite_function.py, new_interp_hermite_n_Czebyszew.xlsx,
+new_interp_hermite_n_EqualySpaced.xlsx
+
+Znajdując się w katalogu zawierającym wymagane pliki .py oraz katalogi należy wpisać w konsoli:
+python Hermite_function.py
+
+Po zakończeniu programu w SciView znajdą się opisane wykresy funkcji interpolowanych oraz ich wielomianów interpolujących.
+
+W plikach .xlsx znajdą się opisane tabele z błędami. 
+
